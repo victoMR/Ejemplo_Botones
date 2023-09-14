@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejemplo Botones</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="btnToggleOn">Encendido</string>
+    <string name="btnToggleOff">Apagado</string>
+    <string name="btnSwitch">Activar / Desactivar</string>
+    <string name="btnImagen">Btn con palomita</string>
+    <string name="btnImagenTxt">Pulsar</string>
+    <string name="txtMensaje">Mensaje</string>
+</resources>
